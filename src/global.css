@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Helvetica+Now+Display:ital,wght@0,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Vipnagorgialla:ital,wght@1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Product+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Monument+Extended:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-product-sans: "Product Sans";
+  --font-monument-extended: "Monument Extended";
+  --font-vipnagorgialla: Vipnagorgialla;
+  --font-helvetica-now-display: "Helvetica Now Display";
+
+  /* font sizes */
+  --font-size-2xs: 24px;
+  --font-size-xs: 28px;
+  --font-size-sm: 32px;
+  --font-size-base: 36px;
+  --font-size-lg: 48px;
+  --font-size-xl: 60.21px;
+  --font-size-2xl: 72px;
+
+  /* Colors */
+  --color-gray-100: #e5e5e5;
+  --white: #fff;
+  --color-green-100: #74eb76;
+
+  /* border radiuses */
+  --br-md: 84.67px;
+}
